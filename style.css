@@ -41,7 +41,7 @@ header ul{
     background-color: white;
     color: black;
     height: 65vh;
-    background-image: url(https://github.com/danni-lee/danni-lee.github.io/edit/main/kinpu-mountain.jpg);
+    background-image: <img src = "kinpu-mountain.jpg" >;
     background-repeat: no-repeat;
     background-size: 25%;
     background-position: center;
