@@ -41,7 +41,7 @@ header ul{
     background-color: white;
     color: black;
     height: 65vh;
-    background-image: <img src = "kinpu-mountain.jpg" >;
+    background-image: url("kinpu-mountain.jpg");
     background-repeat: no-repeat;
     background-size: 25%;
     background-position: center;
